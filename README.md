@@ -37,7 +37,7 @@ AMANAH adalah sistem manajemen depot air minum yang dibangun dengan teknologi we
 ### Langkah Implementasi
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/Inez321/amanah-water.git
+   git clone https://github.com/Inez321/amanah-php.git
    cd amanah-water
 
 2. **Setup Database**
@@ -57,7 +57,7 @@ AMANAH adalah sistem manajemen depot air minum yang dibangun dengan teknologi we
 
 5. **Akses Aplikasi**
    ```bash
-   http://localhost/amanah-water/
+   http://localhost/amanah-php/
 
    Default Credentials:
    Admin: admin1@gmail.com | Pass: 123
